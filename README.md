@@ -7,5 +7,6 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
 - JavaScript
 - Python
 - Git
+  
 [Mi Linkedin](https://www.linkedin.com/in/marlene-guevara-caraballo-361081211/)
 <img src="https://github.com/marleguevara/marleguevara/blob/main/Marlene-Guevara.jfif" width="200">
